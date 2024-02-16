@@ -20,15 +20,16 @@ JavaScript
 
 
 Setup
-
-To view the website, simply navigate to the following URL: https://zpmughal.github.io/MYWEB/
+```
+To view the website, simply navigate to the following URL: https://zahidprvz.github.io/MYWEB/
+```
 
 Alternatively, you can clone the repository to your local machine and open the index.html file in your web browser.
 
 bash Copy code:
-
-git clone https://github.com/zpmughal/MYWEB.git
-
+```
+git clone https://github.com/zahidprvz/MYWEB.git
+```
 Credits
 
 The website was designed and developed by Zahid Parviz. If you have any questions or feedback, please feel free to contact us using my Email: "pervaizzahid55@gmail.com"
